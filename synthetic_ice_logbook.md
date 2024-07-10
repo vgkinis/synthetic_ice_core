@@ -18,4 +18,4 @@ See images of of the ECAD PCB:
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/PCB_3D_side.png)
 
 On the stepper motor side the connections are as follows:
-![image]https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/Stepper_connections.png)
+![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/Stepper_connections.png)
