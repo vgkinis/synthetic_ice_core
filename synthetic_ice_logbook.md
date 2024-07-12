@@ -55,6 +55,4 @@ The actual setup looks like this:
 The condensation trap consists of en closed vacuum volume before the pump inlet submerged in a liquid nitrogen filled dewar held up with a 3D printed bracket:
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/experiments/Initial_test/IMG/condensation_trap.png)
 
-When heated, stirred and pumped the outgassing looks like this:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-hlvExogXq0?si=mvkUK-Ehnd89620u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+When heated, stirred and pumped the outgassing looks like this: [Watch the video on YouTube](https://www.youtube.com/watch?v=-hlvExogXq0)
