@@ -56,7 +56,4 @@ The condensation trap consists of en closed vacuum volume before the pump inlet 
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/experiments/Initial_test/IMG/condensation_trap.png)
 
 When heated, stirred and pumped the outgassing looks like this:
-<video width="600" controls>
-  <source src="https://github.com/vgkinis/synthetic_ice_core/blob/main/experiments/Initial_test/IMG/stir_vid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="600" height="338" src="https://youtube.com/shorts/-hlvExogXq0?feature=share" frameborder="0" allowfullscreen></iframe>
