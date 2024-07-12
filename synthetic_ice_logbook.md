@@ -19,8 +19,10 @@ See images of of the ECAD PCB:
 
 Additionally, a case to mount on the pulley system has been made to contain the arduino and PCB:
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/PCB_case_side.png)
+
 The mounting brackets are fastened to the case with 4 modified autowrentching thin-head M4 screws that fit in the narrow space inside the case:
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/M4_autowrench.png)
+
 The MCAD files for these can be found with [the ECAD files](https://github.com/vgkinis/synthetic_ice_core/tree/main/Fusion_PCB_Project/ECAD_files).
 
 The physical PCB can be seen in the following photos:
@@ -30,11 +32,15 @@ The physical PCB can be seen in the following photos:
 
 On the stepper motor side the connections are as follows:
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/Stepper_connections.png)
+
 The connections have so far been as follows:
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/Stepper_CONX.png)
+
 The connection between the PCB and the stepper motor is achieved with a custom cable with a female dsub 9pin plug:
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/DSUB_CONX.png)
 
+This cable will then be connected to the stepper motor through a connector- see diagram:
+![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/CONX_diagram.png)
 
 ## Pump system
 
