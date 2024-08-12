@@ -1,11 +1,18 @@
-# Title : Synthetic Ice Core Logbook
+# Synthetic Ice Core Logbook
 
+## Table of Contents
+- [System Development and Setup](#system-development-and-setup)
+  - [Updated Heat Jacket, Pulley System and Stepper Motor Setup](#updated-heat-jacket-pulley-system-and-stepper-motor-setup)
+  - [Pump System](#pump-system)
+- [Guide: How to Operate the System](#guide-how-to-operate-the-system)
 
-## Updated heat jacket, pulley system and stepper motor setup
+## System Development and Setup
 
-The heat jacket used when freezing the synthetic ice core is being lifted by a pulley system connected to a stepper motor. The controls of this pulley system and stepper motor has been updated (summer 2024) with a custom PCB and controller case.
+### Updated Heat Jacket, Pulley System and Stepper Motor Setup
 
-The custom PCB has been designed in the ECAD suite of Autodesk fusion ([see files here](https://github.com/vgkinis/synthetic_ice_core/tree/main/Fusion_PCB_Project/ECAD_files)). The Gerber files from the ECAD project has then been sent to JCLPCB in China (delivery with DHL priority plus).
+The heat jacket used when freezing the synthetic ice core is being lifted by a pulley system connected to a stepper motor. The controls of this pulley system and stepper motor have been updated (summer 2024) with a custom PCB and controller case.
+
+The custom PCB has been designed in the ECAD suite of Autodesk fusion ([see files here](https://github.com/vgkinis/synthetic_ice_core/tree/main/Fusion_PCB_Project/ECAD_files)). The Gerber files from the ECAD project have then been sent to JCLPCB in China (delivery with DHL priority plus).
 
 See images of of the ECAD PCB:
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/PCB_schematic.png)
@@ -27,6 +34,8 @@ The MCAD files for these can be found with [the ECAD files](https://github.com/v
 
 The physical PCB can be seen in the following photos:
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/PCB_IMG.png)
+![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/PCB_case_open1.png)
+![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/PCB_CONX.png)
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/PCB_case_open.png)
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/PCB_case_closed.png)
 
@@ -40,9 +49,9 @@ The connection between the PCB and the stepper motor is achieved with a custom c
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/DSUB_CONX.png)
 
 This cable will then be connected to the stepper motor through a connector- see diagram:
-![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/CONX_diagram.png)
+![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/Fusion_PCB_Project/Images/CONX_diagram.JPG)
 
-## Pump system
+### Pump System
 
 Water used for the synthetic ice cores must first be degassed. This is done by pumping on the water while heating and stirring it. Since this means a lot of vapor will be pumped a condensation trap is necessary.
 
@@ -56,3 +65,5 @@ The condensation trap consists of en closed vacuum volume before the pump inlet 
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/experiments/Initial_test/IMG/condensation_trap.png)
 
 When heated, stirred and pumped the outgassing looks like this: [Watch the video on YouTube](https://www.youtube.com/watch?v=-hlvExogXq0)
+
+## Guide: How to Operate the System
