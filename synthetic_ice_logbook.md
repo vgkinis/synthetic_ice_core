@@ -5,6 +5,7 @@
   - [Updated Heat Jacket, Pulley System and Stepper Motor Setup](#updated-heat-jacket-pulley-system-and-stepper-motor-setup)
   - [Pump System](#pump-system)
 - [Guide: How to Operate the System](#guide-how-to-operate-the-system)
+- [Ice record](#ice-record)
 
 ## System Development and Setup
 
@@ -67,3 +68,10 @@ The condensation trap consists of en closed vacuum volume before the pump inlet 
 When heated, stirred and pumped the outgassing looks like this: [Watch the video on YouTube](https://www.youtube.com/watch?v=-hlvExogXq0)
 
 ## Guide: How to Operate the System
+
+
+## Ice Record
+
+- Attempt No. 1: Pumped 30 minutes at 35 C (left for a long time). Heated at 150V over approx 2 days. Resulting ice core had a big column of bubbles surrounded by clear ice. Likely cause condensation nuclei.
+- Attempt No. 2: Pumped 30 minutes at 35 C put in freezer immediately. Heated at 150V over approx 2 days. Resulting ice core had a smaller column of bubbles but was otherwise pretty clear.
+- Attempt No. 3: Pumped 60 minutes at 35 C put in freezer immediately. Heated at 150V over approx 2 days.
