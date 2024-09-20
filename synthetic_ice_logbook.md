@@ -75,4 +75,7 @@ When heated, stirred and pumped the outgassing looks like this: [Watch the video
 - Attempt No. 1: Pumped 30 minutes at 35 C (left for a long time). Heated at 150V over approx 2 days. Resulting ice core had a big column of bubbles surrounded by clear ice. Likely cause condensation nuclei.
 - Attempt No. 2: Pumped 30 minutes at 35 C put in freezer immediately. Heated at 150V over approx 2 days. Resulting ice core had a smaller column of bubbles but was otherwise pretty clear.
 - Attempt No. 3: Pumped 60 minutes at 35 C put in freezer immediately. Heated at 150V over approx 2 days.
+
+### Result from Attempt 3 
+Needs to be closer inspected - are these bubbles or impurities?
 ![image](https://github.com/vgkinis/synthetic_ice_core/blob/main/experiments/Initial_test/IMG/IMG_20240916_103403841_AE.jpg)
